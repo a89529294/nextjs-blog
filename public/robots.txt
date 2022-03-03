@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nextjs-blog-exzkr9xmr-a89529294.vercel.app/api/my-sitemap
