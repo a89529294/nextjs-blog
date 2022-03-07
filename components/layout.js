@@ -24,6 +24,10 @@ export default function Layout({ children, home }) {
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
+        <meta
+          name="google-site-verification"
+          content="ve8-qYVOJIiWL98PI1SSCqSQ2CcqsRyb8VWaiYfk-eA"
+        />
       </Head>
       <header className={styles.header}>
         {home ? (
